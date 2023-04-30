@@ -19,7 +19,7 @@ Technologies Used
 
 The API is built with the following technologies:
 
-    Java/Kotlin
+    Java
     Spring Boot
     Hibernate
     PostgreSQL
