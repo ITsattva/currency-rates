@@ -33,7 +33,7 @@ To run the API, follow these steps:
 
     Clone the repository
     Use: sudo docker-compose up
-    Replace current tokens for minfin and monobank with your own in the application.properties file.
+    Replace current token for minfin with your own in the application.properties file.
     Run the application with: ./gradlew bootRun
     Navigate to http://localhost:8080/swagger-ui/index.html to view the API documentation and test the endpoints
 
