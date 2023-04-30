@@ -1,4 +1,4 @@
-#Exchange Rate API
+Exchange Rate API
 
 This is a RESTful API that provides exchange rate information from various sources. It includes two methods:
 
@@ -44,7 +44,7 @@ API Documentation
 
 API requests are documented using Swagger. To view the documentation, navigate to http://localhost:8080/swagger-ui/index.html after running the application.
 
-#Endpoints
+Endpoints
 
 The API includes the following endpoints:
 
